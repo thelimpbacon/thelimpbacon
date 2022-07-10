@@ -1,7 +1,7 @@
 Hi 👋 My name is Vaughn Dalde
 =============================
 
-Reactjs Developer
+Frontend Developer
 -----------------
 
 Reactjs developer focusing on Web3. I am a mechanical engineer with 8 years of experience working on big mining machines and I just did a career change to focus on my passion in web development.
